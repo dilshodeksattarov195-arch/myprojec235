@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsdalculate",
+        "uuid": 770330,
+        "checksum": "v25qkd"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
